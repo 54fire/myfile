@@ -6,7 +6,7 @@
 ```
 git clone https://github.com/VundleVim/Vundle.vim.git ~/.vim/bundle/Vundle.vim
 ```
-在.vimrc中插件管理处加入:
+  在.vimrc中插件管理处加入:
 ```
 Plugin 'Valloric/YouCompleteMe'
 ```
